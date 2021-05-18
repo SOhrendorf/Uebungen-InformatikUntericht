@@ -1,3 +1,5 @@
+package Hochzeit_Implemntieren;
+
 
 /**
  * Äquivalent zu Brautigam
