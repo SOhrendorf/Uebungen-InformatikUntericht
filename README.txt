@@ -12,5 +12,3 @@ VERSION oder DATUM: V.0.2
 WIE IST DAS PROJEKT ZU STARTEN: N.N.
 AUTOR(EN):Simon Ohrendorf
 BENUTZERHINWEISE: Die Proframme sind sinnfrei und nicht voll funktionsfähig
-
-Test ich war hier
