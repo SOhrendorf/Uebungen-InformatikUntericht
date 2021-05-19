@@ -32,4 +32,12 @@ public class Braut
         ring = false;
     }
     
+    
+    public String getVorname(){
+        return vorname;
+    }
+    
+    public void setHochzeitstag(int pHochzeitstag){
+        hochzeitstag = pHochzeitstag;
+    }
 }
