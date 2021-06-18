@@ -10,8 +10,11 @@ public class KugelLager
         LegeKugelInsLagerAb(0, Kugel1);
     }
     
-    
     public void LegeKugelInsLagerAb(int n, Kugel AbzulegendeKugel){
         KugelLager[n] = AbzulegendeKugel;
+    }
+    
+    public Kugel getKugelAnStelleAusDemLager(int n){
+        return KugelLager[n];
     }
 }
